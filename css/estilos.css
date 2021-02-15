@@ -50,3 +50,15 @@ body
     padding: 1em;
     background: white;
 }
+
+#footer
+{
+    font-size: 14px;
+    color: white;
+    background: rgb(51, 130, 250);
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
